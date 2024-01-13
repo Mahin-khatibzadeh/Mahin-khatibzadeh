@@ -1,30 +1,37 @@
 
-### Anahita Taheri
+### Mahin Khatibzadeh
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: Mahin
++ last name : Khatibzadeh
++ Date of birth : 1975/February/03
++ I am a System analyst and designer && App and web developer
++ location : I.R.Iran
 
 
-### Skill Highlights
+### Software skills
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Net Core / .Net
++ ASP.Net MVC
++ ASP.Net Core
++ Windows Form App (with c#)
++ Sql Server
++ JavaScript
++ Html & CSS
++ Adobe Photoshop
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Bachelor of science : Applied mathematics 
+_ University of Isfahan
++ Master of science : Software engineering 
+_  Islamic Azad University. Qazvin
 
 ### language
 
@@ -35,15 +42,19 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Coding and developing
++ Studing historical && novel books
++ Travel 
++ Creating handicrafts
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I worked for 9 years as a Informatics expert and head in the Iran Compressor Manufacture Co.
++ I worked for 5 years as a system manager in the Nirou moharekeh machine tools Co.
++ I worked for 4 years as a Senior Sales Manager in the Saman Insurance Co.
++ I am working in the Ma Insurance Co. from 6 years ago until now as a Insurance agency.
+
 
 
 
